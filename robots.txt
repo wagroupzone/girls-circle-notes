@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://girls-circle-notes.pages.dev/sitemap.xml
+
+
+
